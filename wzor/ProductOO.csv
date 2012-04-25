@@ -1,0 +1,4 @@
+"Product",,,,,,,,,"ProductTranslation",,,,,"ProductParameter",,"ProductCategory",,"ProductAccessory"
+"CompanyId","CurrencyId","ManufacturerId","UserId","ListPriceGross","ListPriceNet","Name","PartNumber",,"DescriptionEN","DescriptionPL","TnameEN","TnamePL",,"ProductParameter",,"ProductCategory",,"ProductAccessory"
+1,1,1,1,123,100,"Klucz 01",123,,"Wrench 01","Klucz 01","Wrench 01","Klucz 01",,"1 = 1; 2 = 10",,"1 ; 2 ; 3",,""
+1,1,1,1,"30,75",25," ”•å£Øè∆— 01",345,,"Torch 01"," ”•å£Øè∆— 01","Torch 01"," ”•å£Øè∆— 01",,"1 = 1; 2 = 10",,"1 ; 2 ; 3",,""
